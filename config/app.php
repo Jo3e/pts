@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'PTS - Seemlessly keep track of every project'),
 
     /*
     |--------------------------------------------------------------------------
